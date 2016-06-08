@@ -157,6 +157,9 @@ Contributors
 - Quinton Lee [sirDonovan] - Development
 - Robin Vandenbrande [Quinella] - Development
 
+File Owner
+
+-Paul71 [Kewlstatics]- This File Owner
 Special thanks
 
 - See http://pokemonshowdown.com/credits
